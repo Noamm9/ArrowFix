@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "ArrowFix",
+    "description": "Fixes ShortBows pulling back when an arrow is picked up.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://bigrat.monster/",
+    "updateUrl": "",
+    "authorList": [
+      "ze"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
